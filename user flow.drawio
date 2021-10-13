@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T12:27:14.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="aItX650rCLatcUzfSeUr" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T12:33:12.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="16khydLR2x8tJQG8oIUM" version="15.5.2" type="github">
   <diagram id="gFA7WbcU7uWOlMWJ3cwr" name="Page-1">
-    <mxGraphModel dx="2076" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           <mxGeometry x="21" y="40" width="73" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VWafMa577CUfXfnvmA4W-36" value="&lt;h1&gt;User flow Eatalian pizza&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1300" width="300" height="120" as="geometry" />
+          <mxGeometry x="1300" y="18" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VWafMa577CUfXfnvmA4W-51" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="400" y="120" width="130" height="240" as="geometry" />
